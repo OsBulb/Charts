@@ -1,0 +1,51 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="Charts.Site" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+
+    <link href="Content/bootstrap.css" rel="stylesheet" />
+    <link href="Content/bootstrap.min.css" rel="stylesheet" />
+    <link href="Content/SiteCharts.css" rel="stylesheet" />
+
+    <script src="Scripts/Chart.bundle.js"></script>
+    <script src="Scripts/Chart.js"></script>
+    <script src="Scripts/SalesOrderController.js"></script>
+    <script src="Scripts/jquery-1.10.2.js"></script>
+    <script src="Scripts/jquery-1.10.2.min.js"></script>
+    <script src="Scripts/utils.js"></script>
+</head>
+<body>
+    <form id="Charts" runat="server">
+        <div class="allButFooter">
+            <header>
+                <nav class="navbar navbar-default nvarBordes">
+                    <div class="container-fluid">
+                        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                            <ul class="nav navbar-nav navbar-right">
+                                <li></li>
+                            </ul>
+                        </div>
+                    </div>
+                </nav>
+            </header>
+            <article>
+                <asp:ContentPlaceHolder ID="MainContent" runat="server">
+                </asp:ContentPlaceHolder>
+            </article>
+        </div>
+        <footer>
+            <nav class="navbar navbar-default nvarBordes footerBar">
+                <div class="container-fluid">
+                </div>
+            </nav>
+        </footer>
+
+    </form>
+</body>
+</html>

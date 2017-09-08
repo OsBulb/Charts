@@ -1,0 +1,45 @@
+﻿.allButFooter {
+    min-height: calc(93.7vh);
+}
+
+
+.MainContent {
+    width: 80%;
+    margin: 0 auto;    
+}
+
+.nvarBordes {
+    border-radius:inherit;
+}
+
+.selectAnio {
+    width: 150px;
+}
+
+.filtroVentas {
+    width: 40%;
+    display: flex;
+    margin-top: 20px;
+}
+
+.btnMostrar {
+    margin-left: 20px;
+}
+
+.canvasTotalVentas {
+    margin-top: 30px !important;
+    margin: 0 auto;
+    width: 90% !important;
+}
+
+.texto {
+    font-weight: normal;
+}
+
+.oculto {
+    display:none;
+}
+
+.footerBar {
+    margin-bottom: 0px;
+}
