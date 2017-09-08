@@ -1,0 +1,6 @@
+c:\users\osbulb\documents\visual studio 2017\Projects\Html5\DAL\bin\Debug\DAL.dll.config
+c:\users\osbulb\documents\visual studio 2017\Projects\Html5\DAL\bin\Debug\DAL.dll
+c:\users\osbulb\documents\visual studio 2017\Projects\Html5\DAL\bin\Debug\DAL.pdb
+c:\users\osbulb\documents\visual studio 2017\Projects\Html5\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+c:\users\osbulb\documents\visual studio 2017\Projects\Html5\DAL\obj\Debug\DAL.dll
+c:\users\osbulb\documents\visual studio 2017\Projects\Html5\DAL\obj\Debug\DAL.pdb
