@@ -25,6 +25,10 @@ Model View Controller.
 
 Se implementa DataSet Object Model. 
 
+## Base de datos
+
+Adventure Works 2014
+
 ## Paradigma de programación
 
 Se implementa programacion orientada a objetos basados en principios SOLID y el principio CCP (Common Closure Principle).
